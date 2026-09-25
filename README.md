@@ -17,5 +17,3 @@ crates.io.
   reproducible head-to-head against established open-source parsers.
 - [X12 test data](https://github.com/StanzaAPI/x12-test-data): deterministic
   synthetic corpora plus cataloged adversarial inputs for parser testing.
-
-I write about the parts that broke more often than the parts that worked.
