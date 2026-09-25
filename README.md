@@ -1,5 +1,3 @@
-# Noor Mkdad
-
 Platform and systems engineer. I build low-latency edge systems, streaming data
 parsers, and bare-metal Linux infrastructure.
 
