@@ -4,6 +4,7 @@ I'm a platform and systems engineer. I build Linux infrastructure and LLM
 serving systems, and I publish the benchmarks behind them.
 
 [noorhayatywadam@gmail.com](mailto:noorhayatywadam@gmail.com) ·
+[resume](https://drmkdaddy.github.io/DrMkdaddy/resume.pdf) ·
 [stanzaapi.com](https://stanzaapi.com) ·
 [engineering notes](https://github.com/StanzaAPI/engineering-notes)
 
