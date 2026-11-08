@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<rect width="1280" height="640" fill="#0f172a"/>
+<rect x="0" y="0" width="1280" height="8" fill="#38bdf8"/>
+<text x="96" y="170" font-family="DejaVu Sans, sans-serif" font-size="26" letter-spacing="6" fill="#38bdf8">KV SERVING SCHEDULER</text>
+<text x="96" y="320" font-family="DejaVu Sans, sans-serif" font-size="88" font-weight="bold" fill="#f8fafc">120% of capacity</text>
+<text x="96" y="410" font-family="DejaVu Sans, sans-serif" font-size="34" fill="#f8fafc">admission control and preemption against a block budget</text>
+<text x="96" y="466" font-family="DejaVu Sans, sans-serif" font-size="34" fill="#94a3b8">p99 TTFT and goodput per policy</text>
+<text x="96" y="570" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#94a3b8">github.com/DrMkdaddy/kv-serving-scheduler</text>
+</svg>

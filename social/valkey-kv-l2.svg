@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<rect width="1280" height="640" fill="#0f172a"/>
+<rect x="0" y="0" width="1280" height="8" fill="#38bdf8"/>
+<text x="96" y="170" font-family="DejaVu Sans, sans-serif" font-size="26" letter-spacing="6" fill="#38bdf8">KV CACHE TIERED INTO VALKEY</text>
+<text x="96" y="320" font-family="DejaVu Sans, sans-serif" font-size="88" font-weight="bold" fill="#f8fafc">200 of 200</text>
+<text x="96" y="410" font-family="DejaVu Sans, sans-serif" font-size="34" fill="#f8fafc">sequences served, against 4 of 200 with a fixed pool</text>
+<text x="96" y="466" font-family="DejaVu Sans, sans-serif" font-size="34" fill="#94a3b8">restore beats prefill only above ~4k tokens</text>
+<text x="96" y="570" font-family="DejaVu Sans, sans-serif" font-size="24" fill="#94a3b8">github.com/DrMkdaddy/valkey-kv-l2</text>
+</svg>
