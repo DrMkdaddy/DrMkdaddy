@@ -19,7 +19,7 @@ I'm looking for a full-time platform, backend, or systems role. I'm also interes
 
 ## Stanza API
 
-I built and operate [Stanza API](https://stanzaapi.com): 12 production APIs for healthcare claims, payments, and supply-chain data. It has SDKs in four languages and an MCP server.
+I'm currently a Systems and Platform Engineer at [Stanza API](https://stanzaapi.com): 12 production APIs for healthcare claims, payments, and supply-chain data. It has SDKs in four languages and an MCP server.
 
 ## Tools
 
